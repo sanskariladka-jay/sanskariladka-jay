@@ -111,7 +111,7 @@ A simple compiler project that evaluates arithmetic expressions using **Lex & Ya
 
 ### ✨ Quote to Live By
 > _"The best way to predict the future is to create it."_  
-> — **Sanskari Ladka Jay**
+> — **Jay Kumar**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=120&section=footer"/>
