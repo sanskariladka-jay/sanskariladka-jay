@@ -1,4 +1,4 @@
-<!-- Banner -->Jay Kumar.jpg
+<!-- Banner -->(Jay Kumar.jpg)
 
 <!-- Typing Animation -->
 <p align="center">
