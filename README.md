@@ -1,4 +1,4 @@
-![Banner](https://github.com/sanskariladka-jay/sanskariladka-jay/commit/c6132771d9f87908f10182b11448631bef58b799)
+![Jay Kumar.png](https://github.com/sanskariladka-jay/sanskariladka-jay/commit/c6132771d9f87908f10182b11448631bef58b799)
 
 <!-- Typing Animation -->
 <p align="center">
