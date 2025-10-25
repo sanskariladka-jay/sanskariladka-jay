@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanskariladka-jay/sanskariladka-jay/main/assets/banner-jaykumar.png" alt="Jay Kumar Banner" width="100%">
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/sanskariladka-jay">
