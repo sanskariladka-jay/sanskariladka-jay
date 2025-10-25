@@ -3,7 +3,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/sanskariladka-jay">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanskari+Ladka+Jay!;B.E.+in+Computer+Science+%26+Engineering;Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Team+Leader;Let's+Build+Something+Amazing+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay+Kumar!;B.E.+in+Computer+Science+%26+Engineering;Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Team+Leader;Let's+Build+Something+Amazing+Together!">
   </a>
 </p>
 
