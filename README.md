@@ -1,6 +1,6 @@
 <!-- 💫 Dark & Light Mode Friendly GitHub Profile README for Jay Kumar -->
 
-<!-- Banner -->
+<!-- Jay Kumar.png -->
 <p align="center">
   <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/banner-jaykumar.png" alt="Jay Kumar Banner" width="100%"/>
 </p>
