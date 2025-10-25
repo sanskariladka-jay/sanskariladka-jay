@@ -1,4 +1,4 @@
-<!-- 💫 GitHub Profile README for Sanskari Ladka Jay -->
+<!-- 💫 GitHub Profile README for Jay Kumar -->
 
 <!-- Typing Animation Header -->
 <p align="center">
