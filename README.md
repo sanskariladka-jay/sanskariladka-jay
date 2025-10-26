@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/jaykumar-banner.png" alt="Jay Kumar Banner"/>
+  <img src="jaykumar-banner.png" alt="Jay Kumar Banner"/>
 </p>
 
 <!-- Typing Animation Header -->
