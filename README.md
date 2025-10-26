@@ -32,153 +32,147 @@
 <p align="center">
   <b>Snake</b><br/>
   <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300" style="border: 4px solid #00FF00; border-radius: 15px; box-shadow: 0 0 15px #00FF00; transition: 0.3s;" onmouseover="this.style.boxShadow='0 0 30px #00FF00';" onmouseout="this.style.boxShadow='0 0 15px #00FF00';"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=gamepad" style="filter: drop-shadow(0 0 5px #00FF00);"/>
+    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=gamepad"/>
   </a>
 </p>
 
 <p align="center">
   <b>Mini Tetris</b><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300" style="border: 4px solid #00BFFF; border-radius: 15px; box-shadow: 0 0 15px #00BFFF;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge&logo=tetris" style="filter: drop-shadow(0 0 5px #00BFFF);"/>
+    <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge&logo=tetris"/>
   </a>
 </p>
 
 <p align="center">
   <b>Minesweeper</b><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" style="border: 4px solid #FFFF00; border-radius: 15px; box-shadow: 0 0 15px #FFFF00;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge&logo=mine" style="filter: drop-shadow(0 0 5px #FFFF00);"/>
+    <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge&logo=mine"/>
   </a>
 </p>
 
 <p align="center">
   <b>Pixel Art Maker</b><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" style="border: 4px solid #FF69B4; border-radius: 15px; box-shadow: 0 0 15px #FF69B4;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge&logo=paintbrush" style="filter: drop-shadow(0 0 5px #FF69B4);"/>
+    <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge&logo=paintbrush"/>
   </a>
 </p>
 
 <p align="center">
   <b>Dino Runner</b><br/>
   <a href="https://chromedino.com/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="300" style="border: 4px solid #FF4500; border-radius: 15px; box-shadow: 0 0 15px #FF4500;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://chromedino.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge&logo=dino" style="filter: drop-shadow(0 0 5px #FF4500);"/>
+    <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge&logo=dino"/>
   </a>
 </p>
 
 <p align="center">
   <b>Memory Tile</b><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="300" style="border: 4px solid #FFA500; border-radius: 15px; box-shadow: 0 0 15px #FFA500;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge&logo=memory" style="filter: drop-shadow(0 0 5px #FFA500);"/>
+    <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge&logo=memory"/>
   </a>
 </p>
 
 <p align="center">
   <b>Neko Runner</b><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" style="border: 4px solid #FF00FF; border-radius: 15px; box-shadow: 0 0 15px #FF00FF;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge&logo=cat" style="filter: drop-shadow(0 0 5px #FF00FF);"/>
+    <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge&logo=cat"/>
   </a>
 </p>
 
 <p align="center">
   <b>Aim Challenge</b><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="300" style="border: 4px solid #8A2BE2; border-radius: 15px; box-shadow: 0 0 15px #8A2BE2;"/>
-  </a>
-  <br/>
+    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="300"/>
+  </a><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge&logo=target" style="filter: drop-shadow(0 0 5px #8A2BE2);"/>
+    <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge&logo=target"/>
   </a>
+</p>
+
+---
+
+### 🏆 Achievements & Leaderboard
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="background: #0f0f0f; padding: 10px; border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Top%20Contributor-GitHub-00FFFF?style=for-the-badge&logo=github" height="40"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/100%25%20Coding%20Streak-success?style=for-the-badge&logo=code" height="40"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/500+%20Commits-Completed-green?style=for-the-badge&logo=git" height="40"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Top%20Problem%20Solver-LeetCode-orange?style=for-the-badge&logo=leetcode" height="40"/>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Projects%20Live-10%2B-blue?style=for-the-badge&logo=appveyor" height="40"/>
+  </marquee>
 </p>
 
 ---
 
 ### 🧠 Technical Skills
-#### 💻 Programming Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-#### 🌐 Web Technologies
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-#### ⚙ Tools & Platforms
-<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
 
 ### ⭐ Projects
-... (add your project showcase here with GIFs or live demo links)
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-1-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-2-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-3-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-4-red?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/sanskariladka-jay">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <a href="https://linkedin.com/in/jaykumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:jk316875@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="https://twitter.com/jaykumar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/jay-kumar-20b689312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="mailto:jaykumar@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jaykumar@example.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-</p>
-
----
-
-### ✨ Philosophy
-> "The best way to predict the future is to create it."  
-> Jay Kumar
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=120&section=footer"/>
 </p>
