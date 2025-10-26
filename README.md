@@ -6,19 +6,14 @@
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer | 🎮 Game Creator | 🚀 Tech Explorer</b><br/>
-  Passionate about building interactive real-time web apps, scalable systems, and creative experiences.
+  <b>💻 Full Stack Developer | 🚀 Tech Explorer | Problem Solver</b><br/>
+  Passionate about building interactive web apps, real-time systems, and creative solutions.
 </p>
 
 ---
 
-## 🎮 Jay’s Live Arcade Zone
+## 🎮 Live Fun
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=header&text=Live%20Arcade%20Zone&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<!-- 🐍 Snake Game -->
 <p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #00ffff;">
   <b>🐍 Snake Game — Live on Profile</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="85%" alt="Snake animation"/><br/>
@@ -27,25 +22,24 @@
   </a>
 </p>
 
-<!-- 🧱 Tetris Live -->
-<p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #ff00ff;">
-  <b>🧱 Tetris Live — Falling Blocks Animation</b><br/>
-  <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/live-tetris.svg" width="85%" alt="Tetris Live SVG"/><br/>
-  <a href="https://github.com/feysalthedev/github-readme-tetris" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-Now-purple?style=for-the-badge&logo=tetris&logoColor=white"/>
-  </a>
-</p>
+---
+
+## 🌱 About Me
+- 🎓 B.E. CSE student | Full Stack Developer  
+- 💻 Learning **Spring Boot, React, and Real-time Systems**  
+- 🌟 Motto: _“Code with purpose, build with passion.”_  
+- 🧩 Interests: AI, Game Development, Open Source Contributions  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,netlify,vscode&perline=6"/>
 </p>
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight" />
@@ -57,12 +51,40 @@
 
 ---
 
+## 📝 Projects / Highlights
+<p align="center">
+  <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-WebApp-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-React-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 Top Problem Solver – LeetCode  
+- 🏆 500+ Commits Completed  
+- 🎓 Certifications: Java, Spring Boot, Full Stack Development  
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
   <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
 </p>
+
+---
+
+## 🎯 Fun Fact / Quote
+> "The best way to predict the future is to create it." – Jay Kumar  
 
 ---
 
