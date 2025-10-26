@@ -94,6 +94,16 @@
 
 ---
 
+## 🎨 Contribution Calendar Art / Profile Highlights
+<p align="center">
+  <img src="https://github.com/sanskariladka-jay/github-art/blob/main/contribution-art.png" width="85%" alt="Contribution Calendar Art"/>
+</p>
+<p align="center">
+  Build your initials, logo, or small creative patterns using your GitHub contribution grid!
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
