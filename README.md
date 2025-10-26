@@ -1,14 +1,14 @@
 <!-- GitHub Profile README for Jay Kumar -->
 
-<!-- Banner -->
+<!-- Neon-Arcade Banner -->
 <p align="center">
-  <img src="jaykumar-banner.png" alt="Jay Kumar Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=180&section=header&text=Jay+Kumar&fontSize=50&animation=fadeIn" alt="Jay Kumar Banner"/>
 </p>
 
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/sanskariladka-jay">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jay+Kumar!;B.E.+in+Computer+Science+%26+Engineering;Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Team+Leader;Let's+Build+Something+Amazing+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00FFFF&center=true&width=700&lines=Hi,+I'm+Jay+Kumar!;B.E.+Computer+Science+%26+Engineering;Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Team+Leader;Let's+Build+Something+Amazing!">
   </a>
 </p>
 
@@ -21,44 +21,54 @@
 ---
 
 ### 🚀 About Me
-🌱 Passionate **CSE** student building scalable real world applications  
+🌱 Passionate **CSE** student building scalable real-world applications  
 🎯 Learning **Spring Boot + React** and real-time systems  
 ⚡ Motto: _“Code with purpose, build with passion.”_
 
 ---
 
-### 🎮 Play Games on My Profile
+### 🎮 Arcade Hub — Play Games Directly on My Profile
 
 <p align="center">
-  <b>Play Snake</b><br/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
-</p>
-
-<p align="center">
-  <b>Mini Tetris</b><br/>
-  <a href="https://feysalthedev.github.io/github-readme-tetris/">
-    <img src="https://img.shields.io/badge/Tetris-Play%20Now-blue?style=for-the-badge"/>
+  <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
+    <img src="https://img.shields.io/badge/Tetris-Play%20Now-blue?style=for-the-badge" class="neon-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Snake-Play%20Now-green?style=for-the-badge" class="neon-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
+    <img src="https://img.shields.io/badge/Minesweeper-Play%20Now-yellow?style=for-the-badge" class="neon-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://pixelart.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/PixelArt-Create%20Now-pink?style=for-the-badge" class="neon-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Minesweeper</b><br/>
-  <a href="https://mir-sup.github.io/minesweeper/">
-    <img src="https://img.shields.io/badge/Minesweeper-Play%20Now-yellow?style=for-the-badge"/>
-  </a>
+  ⚡ Hover over the badges to see them glow like a real arcade! Click to play instantly.
 </p>
 
-<p align="center">
-  <b>Pixel Art Maker</b><br/>
-  <a href="https://pixelart.surge.sh/">
-    <img src="https://img.shields.io/badge/Pixel%20Art-Make%20One%F0%9F%8E%A8-pink?style=for-the-badge"/>
-  </a>
-</p>
+<!-- Neon Glow Animation -->
+<style>
+.neon-badge {
+  transition: 0.3s ease-in-out;
+  filter: drop-shadow(0 0 0px #00f0ff);
+}
+.neon-badge:hover {
+  filter: drop-shadow(0 0 6px #00f0ff)
+          drop-shadow(0 0 12px #00f0ff)
+          drop-shadow(0 0 18px #00f0ff);
+  transform: scale(1.1);
+}
+</style>
 
 ---
 
 ### 🧠 Technical Skills
-#### 💻 Languages
+#### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -82,7 +92,7 @@
 ---
 
 ### ⭐ Projects
-... (same content you already have)
+... (keep your project showcase here, maybe with GIFs or live demo links)
 
 ---
 
