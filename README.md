@@ -27,43 +27,95 @@
 
 ---
 
-### 🎮 Arcade Hub — Play Games Directly on My Profile
+### 🎮 Arcade Hub — Play Games on My Profile
 
 <p align="center">
-  <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://img.shields.io/badge/Tetris-Play%20Now-blue?style=for-the-badge" class="neon-badge"/>
-  </a>
-  &nbsp;
+  <b>Snake</b><br/>
   <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Snake-Play%20Now-green?style=for-the-badge" class="neon-badge"/>
+    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300"/>
   </a>
-  &nbsp;
-  <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://img.shields.io/badge/Minesweeper-Play%20Now-yellow?style=for-the-badge" class="neon-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/PixelArt-Create%20Now-pink?style=for-the-badge" class="neon-badge"/>
+  <br/>
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  ⚡ Hover over the badges to see them glow like a real arcade! Click to play instantly.
+  <b>Mini Tetris</b><br/>
+  <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
+    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge"/>
+  </a>
 </p>
 
-<!-- Neon Glow Animation -->
-<style>
-.neon-badge {
-  transition: 0.3s ease-in-out;
-  filter: drop-shadow(0 0 0px #00f0ff);
-}
-.neon-badge:hover {
-  filter: drop-shadow(0 0 6px #00f0ff)
-          drop-shadow(0 0 12px #00f0ff)
-          drop-shadow(0 0 18px #00f0ff);
-  transform: scale(1.1);
-}
-</style>
+<p align="center">
+  <b>Minesweeper</b><br/>
+  <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
+    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Pixel Art Maker</b><br/>
+  <a href="https://pixelart.surge.sh/" target="_blank">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://pixelart.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Dino Runner</b><br/>
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://chromedino.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Memory Tile</b><br/>
+  <a href="https://memory-game.netlify.app/" target="_blank">
+    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://memory-game.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Neko Runner</b><br/>
+  <a href="https://nekogame.netlify.app/" target="_blank">
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://nekogame.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Aim Challenge</b><br/>
+  <a href="https://aimchallenge.netlify.app/" target="_blank">
+    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="300"/>
+  </a>
+  <br/>
+  <a href="https://aimchallenge.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
@@ -75,7 +127,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-#### 🌐 Web Tech
+#### 🌐 Web Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -92,11 +144,11 @@
 ---
 
 ### ⭐ Projects
-... (keep your project showcase here, maybe with GIFs or live demo links)
+... (add your project showcase here with GIFs or live demo links)
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight&hide_border=true" height="150"/>
