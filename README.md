@@ -42,9 +42,7 @@
 
 ## 🛠 Top Languages & Key Repos
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="45%" alt="Top Languages"/>
-  <!-- Highlighted Repo -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=DEFAULTERS&theme=tokyonight" width="45%" alt="Highlighted Repo"/>
 </p>
 
@@ -94,12 +92,13 @@
 
 ---
 
-## 🎨 Contribution Calendar Art / Profile Highlights
+## 🎨 Contribution Calendar Art / Live Highlights
 <p align="center">
-  <img src="https://github.com/sanskariladka-jay/github-art/blob/main/contribution-art.png" width="85%" alt="Contribution Calendar Art"/>
+  <img src="https://github.com/sanskariladka-jay/github-dynamic-profile/blob/main/art/contribution-art.png" width="85%" alt="Contribution Calendar Art"/>
 </p>
+
 <p align="center">
-  Build your initials, logo, or small creative patterns using your GitHub contribution grid!
+  🐍 Snake + initials/logo update daily using GitHub Actions for live interactive profile!
 </p>
 
 ---
