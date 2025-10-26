@@ -1,6 +1,4 @@
-<!-- Profile README for Aditya Kumar -->
-
-<!-- 💫 GitHub Profile README for Jay Kumar -->
+<!-- GitHub Profile README for Jay Kumar -->
 
 <!-- Banner -->
 <p align="center">
