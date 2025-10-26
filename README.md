@@ -1,4 +1,4 @@
-<!-- ✨ Ultimate GitHub Profile README for Jay Kumar — Dark-Glass Futuristic Theme -->
+<!-- ✨ Ultimate GitHub Profile README for Jay Kumar — Dark-Glass Futuristic Theme with Subtle Glow -->
 
 <!-- 🌌 Neon Waving Header -->
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🎮 Live Fun (Dark-Glass Neon Snake)
 
-<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 25px; border-radius: 20px; box-shadow: 0 0 25px #00ffff, 0 0 50px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 25px; border-radius: 20px; box-shadow: 0 0 10px #00ffff, 0 0 10px #ff00ff;">
   <b>🐍 Snake Game — Neon Glow</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
@@ -26,7 +26,7 @@
 ---
 
 ## 🌱 About Me
-<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 15px #00ffff, 0 0 30px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
 - 🎓 B.E. CSE student | Full Stack Developer  
 - 💻 Learning **Spring Boot, React, and Real-time Systems**  
 - 🌟 Motto: _“Code with purpose, build with passion.”_  
@@ -37,7 +37,7 @@
 ---
 
 ## 🛠 Featured Projects
-<p align="center">
+<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS"><img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/></a>
   <a href="https://github.com/Platane/snk"><img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/></a>
   <a href="https://github.com/sanskariladka-jay/Project1"><img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/></a>
@@ -47,20 +47,20 @@
 
 ---
 
-## 📊 Dynamic GitHub Stats (Holographic Neon)
-<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 20px; border-radius: 20px; box-shadow: 0 0 20px #00ffff, 0 0 40px #ff00ff;">
+## 📊 Dynamic GitHub Stats (Subtle Neon)
+<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 20px; border-radius: 20px; box-shadow: 0 0 8px #00ffff, 0 0 8px #ff00ff;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" width="48%" alt="GitHub Streak"/>
 </p>
 
-<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 15px; border-radius: 20px; box-shadow: 0 0 15px #00ffff, 0 0 30px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 15px; border-radius: 20px; box-shadow: 0 0 8px #00ffff, 0 0 8px #ff00ff;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff" width="50%" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🧩 Skills
-<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 15px #00ffff, 0 0 30px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
   Java ☕ | Spring Boot 🌿 | React ⚛️ | MySQL 💾 | WebSockets 🌐 | Git 🧭 | HTML/CSS/JS 🎨
 </p>
 
@@ -77,7 +77,7 @@
 ---
 
 ## 🏆 Achievements
-<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 15px #00ffff, 0 0 30px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
 - 🥇 Top Problem Solver – LeetCode  
 - 🏆 500+ Commits Completed  
 - 🎓 Certified in Java, Spring Boot & Full Stack  
@@ -87,7 +87,7 @@
 ---
 
 ## 🎯 Fun Quote
-<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #00ffff, 0 0 20px #ff00ff;">
+<p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 10px; border-radius: 10px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
 > “The best way to predict the future is to create it.” — Jay Kumar  
 </p>
 
