@@ -17,12 +17,12 @@
 
 ---
 
-## 🎮 Live Fun
+## 🎮 Live Fun (Neon Edition)
 
 <p align="center">
-  <b>🐍 Snake Game — Fun Animation</b><br/>
-  <!-- Snake Game without showing your own contributions -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" width="90%" alt="Snake animation without user contributions"/>
+  <b>🐍 Snake Game — Neon Glow Edition</b><br/>
+  <!-- Custom neon gradient snake (without your personal contribution data) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
 
 ---
@@ -47,10 +47,10 @@
 
 ---
 
-## 📊 Dynamic GitHub Stats (Neon Mode)
+## 📊 Dynamic GitHub Stats (Neon Glow)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=0,0ff0ff,ff00ff&title_color=ffffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff" width="48%" alt="Jay Kumar GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=0,0ff0ff,ff00ff&title_color=ffffff&text_color=ffffff&icon_color=00ffff&border_color=ff00ff" width="48%" alt="Jay Kumar GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=000000&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" width="48%" alt="Jay Kumar GitHub Streak"/>
 </p>
 
@@ -90,6 +90,7 @@
 
 ---
 
+<!-- 🌈 Neon Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thanks+for+Visiting+—+Keep+Coding+💻&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
