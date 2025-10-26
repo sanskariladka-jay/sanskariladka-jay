@@ -1,4 +1,4 @@
-<!-- ✨ Ultimate GitHub Profile README for Jay Kumar — Cyberpunk Animated Glow -->
+<!-- ✨ Ultimate Cyberpunk GitHub Profile README for Jay Kumar — Hover Pulse Interactive -->
 
 <!-- 🌌 Neon Waving Header -->
 <p align="center">
@@ -16,18 +16,18 @@
 
 ---
 
-## 🎮 Live Fun — Animated Neon Snake
+## 🎮 Live Fun — Neon Snake
 
-<p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 15px #00ffff,0 0 15px #ff00ff; animation: pulse 3s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 10px #00ffff,0 0 10px #ff00ff;">
   <b>🐍 Snake Game — Neon Glow</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
 
 ---
 
-## 🌱 About Me — Animated Glow Panel
+## 🌱 About Me — Pulse Panel
 
-<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 4s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 4s infinite;">
 - 🎓 B.E. CSE student | Full Stack Developer  
 - 💻 Learning **Spring Boot, React, and Real-time Systems**  
 - 🌟 Motto: _“Code with purpose, build with passion.”_  
@@ -37,14 +37,14 @@
 
 ---
 
-## 🛠 Featured Projects — Pulsing Badges
+## 🛠 Featured Projects — Hover Glow
 
-<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 5s infinite;">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
-    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge&labelColor=111111&color=00ffff" alt="DEFAULTERS"/>
+    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge&labelColor=111111&color=00ffff&logo=github&logoColor=ffffff" alt="DEFAULTERS"/>
   </a>
   <a href="https://github.com/Platane/snk">
-    <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&labelColor=111111&color=ff00ff" alt="Snake Game"/>
+    <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&labelColor=111111&color=ff00ff&logo=python&logoColor=ffffff" alt="Snake Game"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project1">
     <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge&labelColor=111111&color=00ffff" alt="Project1"/>
@@ -59,26 +59,26 @@
 
 ---
 
-## 📊 Dynamic Stats — Neon Pulse
+## 📊 Dynamic Stats — Soft Hover Pulse
 
-<p align="center" style="background: rgba(20,20,40,0.7); padding:20px; border-radius:20px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 6s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.7); padding:20px; border-radius:20px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 6s infinite;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" width="48%" alt="GitHub Streak"/>
 </p>
 
-<p align="center" style="background: rgba(20,20,40,0.7); padding:15px; border-radius:20px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 7s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.7); padding:15px; border-radius:20px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 7s infinite;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff" width="50%" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🧩 Skills — Animated Neon Badges
+## 🧩 Skills — Hover Interactive
 
-<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
-  <img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/>
-  <img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/>
-  <img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-💾-ff00ff?style=for-the-badge&labelColor=111111&logo=mysql&logoColor=ffffff" alt="MySQL"/>
+<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 5s infinite;">
+  <a href="#"><img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-💾-ff00ff?style=for-the-badge&labelColor=111111&logo=mysql&logoColor=ffffff" alt="MySQL"/></a>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 
 ## 🏆 Achievements
 
-<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 6s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.6); padding:15px; border-radius:15px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 6s infinite;">
 - 🥇 Top Problem Solver – LeetCode  
 - 🏆 500+ Commits Completed  
 - 🎓 Certified in Java, Spring Boot & Full Stack  
@@ -107,7 +107,7 @@
 
 ## 🎯 Fun Quote
 
-<p align="center" style="background: rgba(20,20,40,0.6); padding:10px; border-radius:10px; box-shadow:0 0 5px #00ffff,0 0 5px #ff00ff; animation: pulse 5s infinite;">
+<p align="center" style="background: rgba(20,20,40,0.6); padding:10px; border-radius:10px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 5s infinite;">
 > “The best way to predict the future is to create it.” — Jay Kumar
 </p>
 
