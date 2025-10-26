@@ -173,6 +173,6 @@
     <img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="mailto:jaykumar@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jaykumar@example.com-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-jk316875@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
