@@ -1,4 +1,4 @@
-<!-- ✨ Ultimate GitHub Profile README for Jay Kumar — Dark-Glass Futuristic Theme with Subtle Glow -->
+<!-- ✨ Ultimate GitHub Profile README for Jay Kumar — Dark-Glass Futuristic with Hover Glow -->
 
 <!-- 🌌 Neon Waving Header -->
 <p align="center">
@@ -36,18 +36,28 @@
 
 ---
 
-## 🛠 Featured Projects
+## 🛠 Featured Projects (Hover Glow)
 <p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
-  <a href="https://github.com/sanskariladka-jay/DEFAULTERS"><img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/Platane/snk"><img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/></a>
-  <a href="https://github.com/sanskariladka-jay/Project1"><img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/></a>
-  <a href="https://github.com/sanskariladka-jay/Project2"><img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/></a>
-  <a href="https://github.com/sanskariladka-jay/Project3"><img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/></a>
+  <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
+    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=00ffff" alt="DEFAULTERS"/>
+  </a>
+  <a href="https://github.com/Platane/snk">
+    <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&logo=python&logoColor=white&labelColor=111111&color=ff00ff" alt="Snake Game"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project1">
+    <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge&labelColor=111111&color=00ffff" alt="Project1"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project2">
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge&labelColor=111111&color=ff00ff" alt="Project2"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project3">
+    <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge&labelColor=111111&color=00ffff" alt="Project3"/>
+  </a>
 </p>
 
 ---
 
-## 📊 Dynamic GitHub Stats (Subtle Neon)
+## 📊 Dynamic GitHub Stats (Soft Hover Glow)
 <p align="center" style="background: rgba(20, 20, 40, 0.7); padding: 20px; border-radius: 20px; box-shadow: 0 0 8px #00ffff, 0 0 8px #ff00ff;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" width="48%" alt="GitHub Streak"/>
@@ -59,9 +69,12 @@
 
 ---
 
-## 🧩 Skills
+## 🧩 Skills (Hover Glow)
 <p align="center" style="background: rgba(20, 20, 40, 0.6); padding: 15px; border-radius: 15px; box-shadow: 0 0 5px #00ffff, 0 0 5px #ff00ff;">
-  Java ☕ | Spring Boot 🌿 | React ⚛️ | MySQL 💾 | WebSockets 🌐 | Git 🧭 | HTML/CSS/JS 🎨
+  <img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-💾-ff00ff?style=for-the-badge&labelColor=111111&logo=mysql&logoColor=ffffff" alt="MySQL"/>
 </p>
 
 ---
