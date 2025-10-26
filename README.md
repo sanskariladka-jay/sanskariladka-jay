@@ -32,7 +32,7 @@
   <b>🧱 Tetris Live — Falling Blocks Animation</b><br/>
   <img src=".github/workflows/live-games.yml" width="85%" alt="Tetris Live SVG"/><br/>
   <a href="https://github.com/feysalthedev/github-readme-tetris" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-Now-purple?style=for-the-badge&logo=tetris&logoColor=white"/>
+    <img src=".github/workflows/live-games.yml"/>
   </a>
 </p>
 
