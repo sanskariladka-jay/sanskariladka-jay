@@ -12,10 +12,6 @@
 
 <h3 align="center">💻 Passionate Developer | Tech Explorer | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="400"/>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -25,23 +21,15 @@
 
 ---
 
-### 🎮 Arcade Hub — Play & Explore
+### 🎮 Live Snake & Arcade Hub
 
-<p align="center">
-  <b>Snake</b><br/>
-  <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="280"/>
-  </a><br/>
-  <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000"/>
-  </a>
+<p align="center" style="border: 4px solid #00ffff; border-radius: 15px; box-shadow: 0 0 25px #ff00ff;">
+  <b>Snake Live on Profile!</b><br/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
 <p align="center">
   <b>Tetris</b><br/>
-  <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="280"/>
-  </a><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge&logo=tetris&logoColor=white&labelColor=000000"/>
   </a>
@@ -50,18 +38,12 @@
 <p align="center">
   <b>Minesweeper</b><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280"/>
-  </a><br/>
-  <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge&logo=mine&logoColor=black&labelColor=000000"/>
   </a>
 </p>
 
 <p align="center">
   <b>Pixel Art Maker</b><br/>
-  <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="280"/>
-  </a><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge&logo=paintbrush&logoColor=white&labelColor=000000"/>
   </a>
@@ -70,18 +52,12 @@
 <p align="center">
   <b>Dino Runner</b><br/>
   <a href="https://chromedino.com/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="280"/>
-  </a><br/>
-  <a href="https://chromedino.com/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge&logo=dino&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
 <p align="center">
   <b>Memory Tile</b><br/>
-  <a href="https://memory-game.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="280"/>
-  </a><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge&logo=memory&logoColor=white&labelColor=000000"/>
   </a>
@@ -90,18 +66,12 @@
 <p align="center">
   <b>Neko Runner</b><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="280"/>
-  </a><br/>
-  <a href="https://nekogame.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge&logo=cat&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
 <p align="center">
   <b>Aim Challenge</b><br/>
-  <a href="https://aimchallenge.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="280"/>
-  </a><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge&logo=target&logoColor=white&labelColor=000000"/>
   </a>
