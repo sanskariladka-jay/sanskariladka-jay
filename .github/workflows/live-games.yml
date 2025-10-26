@@ -2,7 +2,7 @@ name: Update Tetris Live SVG
 
 on:
   schedule:
-    - cron: '0 12 * * *' # every day 12:00 UTC
+    - cron: '0 12 * * *' # daily at 12:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -19,18 +19,12 @@ jobs:
           node-version: '20'
 
       - name: Install Dependencies
-        run: npm install canvas fs
+        run: npm install fs
 
       - name: Generate Tetris Live SVG
-        run: |
-          mkdir -p assets
-          TIMESTAMP=$(date +%s)
-          echo "<svg xmlns='http://www.w3.org/2000/svg' width='600' height='200'>
-          <rect x='0' y='0' width='600' height='200' fill='#0d0d0d'/>
-          <text x='50%' y='50%' fill='#ff00ff' font-size='30' font-family='Arial' text-anchor='middle' alignment-baseline='middle'>Tetris Live $TIMESTAMP</text>
-          </svg>" > assets/live-tetris.svg
+        run: node scripts/generate-tetris.js
 
-      - name: Commit and Push
+      - name: Commit & Push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
