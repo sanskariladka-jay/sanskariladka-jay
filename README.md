@@ -1,4 +1,4 @@
-<!-- ✨ Premium GitHub Profile README for Jay Kumar -->
+<!-- ✨ Ultimate GitHub Profile README for Jay Kumar -->
 
 <!-- 🌈 Neon Waving Header -->
 <p align="center">
@@ -29,12 +29,29 @@
 - 💻 Learning **Spring Boot, React, and Real-time Systems**  
 - 🌟 Motto: _“Code with purpose, build with passion.”_  
 - 🧩 Interests: AI, Game Development, Open Source Contributions  
+- 🔭 Currently exploring **real-time multiplayer platforms**  
 
 ---
 
 ## 🧠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,netlify,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,netlify,vscode,docker,linux&perline=6"/>
+</p>
+
+---
+
+## 🛠 Top Languages & Key Repos
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="45%" alt="Top Languages"/>
+  <!-- Highlighted Repo -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=DEFAULTERS&theme=tokyonight" width="45%" alt="Highlighted Repo"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project1&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project2&theme=tokyonight" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project3&theme=tokyonight" width="30%" />
 </p>
 
 ---
@@ -62,6 +79,9 @@
   <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
     <img src="https://img.shields.io/badge/Project3-React-orange?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/sanskariladka-jay/Project4" target="_blank">
+    <img src="https://img.shields.io/badge/Project4-FullStack-purple?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -70,6 +90,7 @@
 - 🥇 Top Problem Solver – LeetCode  
 - 🏆 500+ Commits Completed  
 - 🎓 Certifications: Java, Spring Boot, Full Stack Development  
+- 🌐 Open Source Contributions & Hackathons  
 
 ---
 
@@ -79,12 +100,14 @@
   <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.instagram.com/jaykumar" target="_blank"><img src="https://img.shields.io/badge/Instagram-@jaykumar-E4405F?style=for-the-badge&logo=instagram"/></a>
 </p>
 
 ---
 
-## 🎯 Fun Fact / Quote
+## 🎯 Fun Quote / Fact
 > "The best way to predict the future is to create it." – Jay Kumar  
+> 🕹 Loves coding, gaming, and creating interactive apps  
 
 ---
 
