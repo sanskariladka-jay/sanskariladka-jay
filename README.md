@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/banner-jaykumar.png" alt="Jay Kumar Banner"/>
+  <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/jaykumar-banner.png" alt="Jay Kumar Banner"/>
 </p>
 
 <!-- Typing Animation Header -->
@@ -64,7 +64,7 @@
 
 ### 🌟 Featured Projects
 
-#### 🎮 Real-Time Voice Chat & Game Platform  
+#### 🎮 Real-Time Voice Chat & Game Platform
 A large-scale **real-time voice chat & gaming system** built with **Spring Boot**, **React**, **WebSocket**, and **MySQL**.  
 Includes **room PK systems**, **diamond-based rewards**, and **multiplayer game modes** (Truth & Dare, Snake & Ladder, Draw & Guess).  
 🔗 [View Repository](https://github.com/sanskariladka-jay/voice-game-platform)  
@@ -72,16 +72,16 @@ Includes **room PK systems**, **diamond-based rewards**, and **multiplayer game 
 
 ---
 
-#### 🔄 Peer-to-Peer Academic Exchange Platform  
-An academic platform for **students to share notes, papers, and projects** securely.  
+#### 🔄 Peer-to-Peer Academic Exchange Platform
+A collaborative platform for **students to share notes, papers, and projects** securely.  
 Implements **JWT authentication**, **REST APIs**, and **smart content matching**.  
 🔗 [View Repository](https://github.com/sanskariladka-jay/academic-exchange-platform)  
 🛠️ *Java | Spring Boot | MySQL | React | REST API*
 
 ---
 
-#### 🧮 Lex & Yacc Expression Evaluator  
-A simple compiler project that evaluates arithmetic expressions using **Lex & Yacc**.  
+#### 🧮 Lex & Yacc Expression Evaluator
+A compiler-based project that evaluates arithmetic expressions using **Lex & Yacc**.  
 🔗 [View Repository](https://github.com/sanskariladka-jay/lex-yacc-calculator)  
 🛠️ *C | Lex | Yacc*
 
@@ -94,7 +94,7 @@ A simple compiler project that evaluates arithmetic expressions using **Lex & Ya
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
