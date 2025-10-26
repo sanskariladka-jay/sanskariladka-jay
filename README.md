@@ -21,7 +21,7 @@
 
 <p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #00ffff;">
   <b>🐍 Snake Game — Live on Profile</b><br/>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="85%" alt="Snake animation"/><br/>
+  <img src="https://raw.githubusercontent.com/sanskariladka-jay/sanskariladka-jay/output/github-contribution-grid-snake.svg" width="85%" alt="Snake animation"/><br/>
   <a href="https://github.com/Platane/snk" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
@@ -40,45 +40,48 @@
 
 ## 🛠 Featured Projects
 <p align="center">
-  <abbr title="Full Stack Loan Management System using Spring Boot & React">
-    <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
-      <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/>
-    </a>
-  </abbr>
-
-  <abbr title="Real-time Multiplayer Snake Game">
-    <a href="https://github.com/Platane/snk" target="_blank">
-      <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/>
-    </a>
-  </abbr>
-
-  <abbr title="Web Application Project">
-    <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
-      <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/>
-    </a>
-  </abbr>
-
-  <abbr title="Spring Boot Backend Project">
-    <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
-      <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/>
-    </a>
-  </abbr>
-
-  <abbr title="React Frontend Project">
-    <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
-      <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/>
-    </a>
-  </abbr>
+  <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
+    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Platane/snk" target="_blank">
+    <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 📊 Professional Stats
+## ⚡ GitHub Optimization Tricks
+
+✅ Use **GitHub Actions** to auto-update your README with:  
+- Daily contribution graph (like Snake 🐍).  
+- Auto-refreshing stats & languages.  
+- Dynamic streak counters.  
+
+✅ Host a **live portfolio** inside your README using Shields badges, contribution cards, and animated headers for more engagement.  
+
+✅ Keep your profile visually balanced — avoid clutter, use badges and icons smartly.  
+
+---
+
+## 📊 Dynamic GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Total%20Commits-1500-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Followers-50-red?style=for-the-badge"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff00ff"/>
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=sanskariladka-jay&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117"/>
 </p>
 
 ---
