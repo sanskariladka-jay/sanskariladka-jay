@@ -40,46 +40,50 @@
 
 ---
 
-## 🛠 Top Languages & Key Repos
+## 🛠 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=tokyonight&hide=jupyter%20notebook" width="45%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=DEFAULTERS&theme=tokyonight" width="45%" alt="Highlighted Repo"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project1&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project2&theme=tokyonight" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project3&theme=tokyonight" width="30%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanskariladka-jay&theme=tokyonight"/>
-</p>
-
----
-
-## 📝 Projects / Highlights
-<p align="center">
+  <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
+    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/>
+  </a>
   <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-WebApp-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-SpringBoot-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-React-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/sanskariladka-jay/Project4" target="_blank">
-    <img src="https://img.shields.io/badge/Project4-FullStack-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Professional Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-1500-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stars-120-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Followers-50-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧩 Skills & Learning Path
+<p align="center">
+  <b>Top Skills:</b> Java, Spring Boot, React, HTML/CSS/JS, SQL<br/>
+  <b>Currently Learning:</b> WebSocket, Real-time Multiplayer Systems, AI integration
+</p>
+
+---
+
+## 🌐 Quick Links
+<p align="center">
+  <a href="https://github.com/sanskariladka-jay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/>
   </a>
+  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
 </p>
 
 ---
@@ -92,31 +96,8 @@
 
 ---
 
-## 🎨 Contribution Calendar Art / Live Highlights
-<p align="center">
-  <img src="https://github.com/sanskariladka-jay/github-dynamic-profile/blob/main/art/contribution-art.png" width="85%" alt="Contribution Calendar Art"/>
-</p>
-
-<p align="center">
-  🐍 Snake + initials/logo update daily using GitHub Actions for live interactive profile!
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="https://www.instagram.com/jaykumar" target="_blank"><img src="https://img.shields.io/badge/Instagram-@jaykumar-E4405F?style=for-the-badge&logo=instagram"/></a>
-</p>
-
----
-
-## 🎯 Fun Quote / Fact
+## 🎯 Fun Quote
 > "The best way to predict the future is to create it." – Jay Kumar  
-> 🕹 Loves coding, gaming, and creating interactive apps  
 
 ---
 
