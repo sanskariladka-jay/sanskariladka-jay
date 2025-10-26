@@ -10,6 +10,11 @@
   Passionate about building interactive web apps, real-time systems, and creative solutions.
 </p>
 
+<!-- 🌟 Profile Setup Complete Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Setup%20Complete-00FFAA?style=for-the-badge&logo=github&logoColor=white" alt="Profile Setup Complete"/>
+</p>
+
 ---
 
 ## 🎮 Live Fun
@@ -35,18 +40,35 @@
 
 ## 🛠 Featured Projects
 <p align="center">
-  <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
-    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/>
-  </a>
+  <abbr title="Full Stack Loan Management System using Spring Boot & React">
+    <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
+      <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/>
+    </a>
+  </abbr>
+
+  <abbr title="Real-time Multiplayer Snake Game">
+    <a href="https://github.com/Platane/snk" target="_blank">
+      <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/>
+    </a>
+  </abbr>
+
+  <abbr title="Web Application Project">
+    <a href="https://github.com/sanskariladka-jay/Project1" target="_blank">
+      <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/>
+    </a>
+  </abbr>
+
+  <abbr title="Spring Boot Backend Project">
+    <a href="https://github.com/sanskariladka-jay/Project2" target="_blank">
+      <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/>
+    </a>
+  </abbr>
+
+  <abbr title="React Frontend Project">
+    <a href="https://github.com/sanskariladka-jay/Project3" target="_blank">
+      <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/>
+    </a>
+  </abbr>
 </p>
 
 ---
