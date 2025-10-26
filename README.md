@@ -1,11 +1,11 @@
-<!-- GitHub Profile README for Jay Kumar -->
+<!-- 💫 GitHub Profile README for Jay Kumar -->
 
-<!-- Neon Waving Banner -->
+<!-- 🌈 Neon Waving Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=180&section=header&text=Jay+Kumar&fontSize=60&animation=fadeIn" alt="Jay Kumar Banner"/>
 </p>
 
-<!-- Typing Animation Header -->
+<!-- ⌨️ Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFFF&center=true&width=750&lines=Hi,+I'm+Jay+Kumar!;B.E.+CSE;Full+Stack+Developer+%7C+Tech+Enthusiast;Problem+Solver+%7C+Team+Leader;Let's+Code+and+Play!"/>
 </p>
@@ -21,60 +21,119 @@
 
 ---
 
-### 🎮 Live Snake & Arcade Hub
+### 🎮 Neon Game Arcade Hub — Play Directly from My Profile
 
-<p align="center" style="border: 4px solid #00ffff; border-radius: 15px; box-shadow: 0 0 25px #ff00ff;">
-  <b>Snake Live on Profile!</b><br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=header&text=Let's+Play!&fontSize=40&animation=fadeIn" alt="Game Section Banner"/>
+</p>
+
+<!-- 🐍 Snake -->
+<p align="center" style="background: radial-gradient(circle, #111 0%, #000 100%); padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #ff00ff;">
+  <b>🐍 Snake Game (Live on Profile)</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
+<br/>
+
+<!-- 🎲 Tetris -->
 <p align="center">
-  <b>Tetris</b><br/>
+  <b>🎲 Tetris</b><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge&logo=tetris&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 💣 Minesweeper -->
 <p align="center">
-  <b>Minesweeper</b><br/>
+  <b>💣 Minesweeper</b><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge&logo=mine&logoColor=black&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 🎨 Pixel Art -->
 <p align="center">
-  <b>Pixel Art Maker</b><br/>
+  <b>🎨 Pixel Art Maker</b><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge&logo=paintbrush&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 🦖 Dino Runner -->
 <p align="center">
-  <b>Dino Runner</b><br/>
+  <b>🦖 Dino Runner</b><br/>
   <a href="https://chromedino.com/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge&logo=dino&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 🧩 Memory Tile -->
 <p align="center">
-  <b>Memory Tile</b><br/>
+  <b>🧩 Memory Tile</b><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge&logo=memory&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 🐱 Neko Runner -->
 <p align="center">
-  <b>Neko Runner</b><br/>
+  <b>🐱 Neko Runner</b><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge&logo=cat&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
+<!-- 🎯 Aim Challenge -->
 <p align="center">
-  <b>Aim Challenge</b><br/>
+  <b>🎯 Aim Challenge</b><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge&logo=target&logoColor=white&labelColor=000000"/>
   </a>
+</p>
+
+<!-- ➕ New Games Section -->
+<br/>
+<h3 align="center">🔥 Bonus Games — New Additions 🔥</h3>
+
+<!-- 🔢 2048 -->
+<p align="center">
+  <b>🔢 2048 Game</b><br/>
+  <a href="https://play2048.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%202048-Now-ff6600?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+<!-- ❌ Tic Tac Toe -->
+<p align="center">
+  <b>❌ Tic Tac Toe</b><br/>
+  <a href="https://playtictactoe.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Tic%20Tac%20Toe-Now-00ff99?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+<!-- 🏓 Pong -->
+<p align="center">
+  <b>🏓 Pong Classic</b><br/>
+  <a href="https://pong-2d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Pong-Now-00bfff?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+<!-- 💡 Breakout -->
+<p align="center">
+  <b>💡 Breakout</b><br/>
+  <a href="https://games.penjee.com/breakout/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Breakout-Now-ff00ff?style=for-the-badge&logo=brave&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
+
+<!-- Tip -->
+<p align="center" style="background:#0f0f0f; border-radius:15px; padding:10px; margin-top:25px;">
+  <b>🌐 Tip:</b> Click any badge to instantly open and play online!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=120&section=footer"/>
 </p>
 
 ---
