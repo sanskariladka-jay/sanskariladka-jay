@@ -1,4 +1,4 @@
-<!-- ✨ Professional GitHub Profile README — Jay Kumar -->
+<!-- ✨ Professional Cyberpunk GitHub README — Jay Kumar -->
 
 <!-- 🌌 Waving Header -->
 <p align="center">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>💻 Full Stack Developer | 🚀 Technology Enthusiast | Problem Solver</b><br/>
-  Passionate about building robust web applications, real-time systems, and innovative solutions.
+  Building scalable web applications, real-time systems, and innovative solutions.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🎮 Interactive Projects
 
-<p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 15px #00ffff,0 0 15px #ff00ff;">
+<p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 12px #00ffff,0 0 12px #ff00ff;">
   <b>🐍 Snake Game — Neon Interactive Demo</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
@@ -27,33 +27,33 @@
 
 ## 🌱 Professional Overview
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 4s infinite;">
+<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 4s infinite;">
 - 🎓 B.E. CSE Student | Full Stack Developer  
 - 💻 Currently Learning: **Spring Boot, React, Real-time Systems**  
 - 🌟 Motto: _“Code with purpose, build with passion.”_  
 - 🧩 Interests: AI, Game Development, Open Source Contributions  
-- 🔭 Researching: **Real-time Multiplayer Platforms**
+- 🔭 Exploring: **Real-time Multiplayer Platforms**
 </p>
 
 ---
 
 ## 🛠 Featured Work
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
+<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 5s infinite;">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
-    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge&labelColor=111111&color=00ffff&logo=github&logoColor=ffffff" alt="DEFAULTERS"/>
+    <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-00ffff?style=for-the-badge&labelColor=111111&logo=github&logoColor=ffffff" alt="DEFAULTERS"/>
   </a>
   <a href="https://github.com/Platane/snk">
-    <img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge&labelColor=111111&color=ff00ff&logo=python&logoColor=ffffff" alt="Snake Game"/>
+    <img src="https://img.shields.io/badge/Snake-Game-ff00ff?style=for-the-badge&labelColor=111111&logo=python&logoColor=ffffff" alt="Snake Game"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project1">
-    <img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge&labelColor=111111&color=00ffff" alt="Project1"/>
+    <img src="https://img.shields.io/badge/Project1-WebApp-00ffff?style=for-the-badge&labelColor=111111" alt="Project1"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project2">
-    <img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge&labelColor=111111&color=ff00ff" alt="Project2"/>
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-ff00ff?style=for-the-badge&labelColor=111111" alt="Project2"/>
   </a>
   <a href="https://github.com/sanskariladka-jay/Project3">
-    <img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge&labelColor=111111&color=00ffff" alt="Project3"/>
+    <img src="https://img.shields.io/badge/Project3-React-00ffff?style=for-the-badge&labelColor=111111" alt="Project3"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 ## 🧩 Technical Skills
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
+<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 5s infinite;">
   <a href="#"><img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/></a>
@@ -86,17 +86,17 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-00ffff?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff00ff?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-00ffff?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-ff00ff?style=for-the-badge&logo=twitter"/></a>
 </p>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 6s infinite;">
+<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 6s infinite;">
 - 🥇 Top Problem Solver – LeetCode  
 - 🏆 500+ Commits Completed  
 - 🎓 Certified in Java, Spring Boot & Full Stack  
