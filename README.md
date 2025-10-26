@@ -18,7 +18,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=header&text=Live%20Arcade%20Zone&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- 🐍 Snake Game (Live GitHub Grid Animation) -->
+<!-- 🐍 Snake Game -->
 <p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #00ffff;">
   <b>🐍 Snake Game — Live on Profile</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="85%" alt="Snake animation"/><br/>
@@ -27,9 +27,9 @@
   </a>
 </p>
 
-<!-- 🧱 Tetris Game (Live SVG Visualization) -->
+<!-- 🧱 Tetris Live -->
 <p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #ff00ff;">
-  <b>🧱 Tetris Live — Auto-Animated</b><br/>
+  <b>🧱 Tetris Live — Falling Blocks Animation</b><br/>
   <img src="https://github.com/sanskariladka-jay/sanskariladka-jay/blob/main/assets/live-tetris.svg" width="85%" alt="Tetris Live SVG"/><br/>
   <a href="https://github.com/feysalthedev/github-readme-tetris" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Tetris-Now-purple?style=for-the-badge&logo=tetris&logoColor=white"/>
