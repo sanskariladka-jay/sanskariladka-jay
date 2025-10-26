@@ -27,93 +27,93 @@
 
 ---
 
-### 🎮 Arcade Hub — Play Games on My Profile
+### 🎮 Arcade Hub — Play & Explore
 
 <p align="center">
   <b>Snake</b><br/>
   <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="300" style="border: 4px solid #00FF00; border-radius: 15px; box-shadow: 0 0 15px #00FF00; transition: 0.3s;" onmouseover="this.style.boxShadow='0 0 30px #00FF00';" onmouseout="this.style.boxShadow='0 0 15px #00FF00';"/>
   </a>
   <br/>
   <a href="https://raw.githubusercontent.com/Platane/snk/output/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=gamepad" style="filter: drop-shadow(0 0 5px #00FF00);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Mini Tetris</b><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300" style="border: 4px solid #00BFFF; border-radius: 15px; box-shadow: 0 0 15px #00BFFF;"/>
   </a>
   <br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Tetris-Now-blue?style=for-the-badge&logo=tetris" style="filter: drop-shadow(0 0 5px #00BFFF);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Minesweeper</b><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" style="border: 4px solid #FFFF00; border-radius: 15px; box-shadow: 0 0 15px #FFFF00;"/>
   </a>
   <br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Minesweeper-Now-yellow?style=for-the-badge&logo=mine" style="filter: drop-shadow(0 0 5px #FFFF00);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Pixel Art Maker</b><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" style="border: 4px solid #FF69B4; border-radius: 15px; box-shadow: 0 0 15px #FF69B4;"/>
   </a>
   <br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Make%20Pixel%20Art-Now-pink?style=for-the-badge&logo=paintbrush" style="filter: drop-shadow(0 0 5px #FF69B4);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Dino Runner</b><br/>
   <a href="https://chromedino.com/" target="_blank">
-    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/3o6ZsXkQQWf1rZ3H1O/giphy.gif" width="300" style="border: 4px solid #FF4500; border-radius: 15px; box-shadow: 0 0 15px #FF4500;"/>
   </a>
   <br/>
   <a href="https://chromedino.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Dino-Now-red?style=for-the-badge&logo=dino" style="filter: drop-shadow(0 0 5px #FF4500);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Memory Tile</b><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="300" style="border: 4px solid #FFA500; border-radius: 15px; box-shadow: 0 0 15px #FFA500;"/>
   </a>
   <br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Memory%20Tile-Now-orange?style=for-the-badge&logo=memory" style="filter: drop-shadow(0 0 5px #FFA500);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Neko Runner</b><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" style="border: 4px solid #FF00FF; border-radius: 15px; box-shadow: 0 0 15px #FF00FF;"/>
   </a>
   <br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Neko%20Runner-Now-magenta?style=for-the-badge&logo=cat" style="filter: drop-shadow(0 0 5px #FF00FF);"/>
   </a>
 </p>
 
 <p align="center">
   <b>Aim Challenge</b><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
-    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="300" style="border: 4px solid #8A2BE2; border-radius: 15px; box-shadow: 0 0 15px #8A2BE2;"/>
   </a>
   <br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Play%20Aim%20Challenge-Now-purple?style=for-the-badge&logo=target" style="filter: drop-shadow(0 0 5px #8A2BE2);"/>
   </a>
 </p>
 
