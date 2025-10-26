@@ -1,13 +1,13 @@
-<!-- ✨ Ultimate Cyberpunk GitHub Profile README — Holographic Panels -->
+<!-- ✨ Professional GitHub Profile README — Jay Kumar -->
 
-<!-- 🌌 Neon Waving Header -->
+<!-- 🌌 Waving Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=Hi%2C%20I'm%20Jay%20Kumar!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&background=1A1A2E"/>
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer | 🚀 Tech Explorer | Problem Solver</b><br/>
-  Passionate about building interactive web apps, real-time systems, and creative solutions.
+  <b>💻 Full Stack Developer | 🚀 Technology Enthusiast | Problem Solver</b><br/>
+  Passionate about building robust web applications, real-time systems, and innovative solutions.
 </p>
 
 <p align="center">
@@ -16,28 +16,28 @@
 
 ---
 
-## 🎮 Live Fun — Neon Snake
+## 🎮 Interactive Projects
 
 <p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 15px #00ffff,0 0 15px #ff00ff;">
-  <b>🐍 Snake Game — Neon Glow</b><br/>
+  <b>🐍 Snake Game — Neon Interactive Demo</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
 
 ---
 
-## 🌱 About Me — Holographic Panel
+## 🌱 Professional Overview
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 4s infinite;">
-- 🎓 B.E. CSE student | Full Stack Developer  
-- 💻 Learning **Spring Boot, React, and Real-time Systems**  
+- 🎓 B.E. CSE Student | Full Stack Developer  
+- 💻 Currently Learning: **Spring Boot, React, Real-time Systems**  
 - 🌟 Motto: _“Code with purpose, build with passion.”_  
 - 🧩 Interests: AI, Game Development, Open Source Contributions  
-- 🔭 Currently exploring **real-time multiplayer platforms**
+- 🔭 Researching: **Real-time Multiplayer Platforms**
 </p>
 
 ---
 
-## 🛠 Featured Projects — Holo Hover Glow
+## 🛠 Featured Work
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 Dynamic Stats — Holo Dashboard
+## 📊 GitHub Statistics
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:20px; border-radius:20px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 6s infinite;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff" width="48%" alt="GitHub Stats"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🧩 Skills — Interactive Holo Badges
+## 🧩 Technical Skills
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 5s infinite;">
   <a href="#"><img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/></a>
@@ -83,7 +83,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 8px #00ffff,0 0 8px #ff00ff; animation: pulse 6s infinite;">
 - 🥇 Top Problem Solver – LeetCode  
@@ -105,7 +105,7 @@
 
 ---
 
-## 🎯 Fun Quote
+## 🎯 Quote
 
 <p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:10px; border-radius:10px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 5s infinite;">
 > “The best way to predict the future is to create it.” — Jay Kumar
@@ -114,5 +114,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thanks+for+Visiting+—+Keep+Coding+💻&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thank+you+for+visiting+—+Keep+Coding💻&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
