@@ -21,13 +21,11 @@
 
 ---
 
-### 🎮 Neon Game Arcade Hub — Play Directly from My Profile
-
+<!-- 🎮 Jay’s Arcade Hub -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=header&text=Let's+Play!&fontSize=40&animation=fadeIn" alt="Game Section Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=header&text=Jay's%20Arcade%20Hub&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Jay's Arcade Hub Banner"/>
 </p>
 
-<!-- 🐍 Snake -->
 <p align="center" style="background: radial-gradient(circle, #111 0%, #000 100%); padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #ff00ff;">
   <b>🐍 Snake Game (Live on Profile)</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
@@ -35,7 +33,6 @@
 
 <br/>
 
-<!-- 🎲 Tetris -->
 <p align="center">
   <b>🎲 Tetris</b><br/>
   <a href="https://feysalthedev.github.io/github-readme-tetris/" target="_blank">
@@ -43,7 +40,6 @@
   </a>
 </p>
 
-<!-- 💣 Minesweeper -->
 <p align="center">
   <b>💣 Minesweeper</b><br/>
   <a href="https://mir-sup.github.io/minesweeper/" target="_blank">
@@ -51,7 +47,6 @@
   </a>
 </p>
 
-<!-- 🎨 Pixel Art -->
 <p align="center">
   <b>🎨 Pixel Art Maker</b><br/>
   <a href="https://pixelart.surge.sh/" target="_blank">
@@ -59,7 +54,6 @@
   </a>
 </p>
 
-<!-- 🦖 Dino Runner -->
 <p align="center">
   <b>🦖 Dino Runner</b><br/>
   <a href="https://chromedino.com/" target="_blank">
@@ -67,7 +61,6 @@
   </a>
 </p>
 
-<!-- 🧩 Memory Tile -->
 <p align="center">
   <b>🧩 Memory Tile</b><br/>
   <a href="https://memory-game.netlify.app/" target="_blank">
@@ -75,7 +68,6 @@
   </a>
 </p>
 
-<!-- 🐱 Neko Runner -->
 <p align="center">
   <b>🐱 Neko Runner</b><br/>
   <a href="https://nekogame.netlify.app/" target="_blank">
@@ -83,7 +75,6 @@
   </a>
 </p>
 
-<!-- 🎯 Aim Challenge -->
 <p align="center">
   <b>🎯 Aim Challenge</b><br/>
   <a href="https://aimchallenge.netlify.app/" target="_blank">
@@ -91,49 +82,29 @@
   </a>
 </p>
 
-<!-- ➕ New Games Section -->
-<br/>
-<h3 align="center">🔥 Bonus Games — New Additions 🔥</h3>
-
-<!-- 🔢 2048 -->
 <p align="center">
-  <b>🔢 2048 Game</b><br/>
+  <b>🧮 2048 Game</b><br/>
   <a href="https://play2048.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%202048-Now-ff6600?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Play%202048-Now-green?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
-<!-- ❌ Tic Tac Toe -->
 <p align="center">
-  <b>❌ Tic Tac Toe</b><br/>
+  <b>⭕ Tic Tac Toe</b><br/>
   <a href="https://playtictactoe.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tic%20Tac%20Toe-Now-00ff99?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Play%20Tic%20Tac%20Toe-Now-lightblue?style=for-the-badge&logo=hashnode&logoColor=black&labelColor=000000"/>
   </a>
 </p>
 
-<!-- 🏓 Pong -->
 <p align="center">
-  <b>🏓 Pong Classic</b><br/>
-  <a href="https://pong-2d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Pong-Now-00bfff?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000"/>
+  <b>🏓 Pong Game</b><br/>
+  <a href="https://ponggame.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Pong-Now-cyan?style=for-the-badge&logo=controller&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
-<!-- 💡 Breakout -->
-<p align="center">
-  <b>💡 Breakout</b><br/>
-  <a href="https://games.penjee.com/breakout/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Breakout-Now-ff00ff?style=for-the-badge&logo=brave&logoColor=white&labelColor=000000"/>
-  </a>
-</p>
-
-<!-- Tip -->
 <p align="center" style="background:#0f0f0f; border-radius:15px; padding:10px; margin-top:25px;">
-  <b>🌐 Tip:</b> Click any badge to instantly open and play online!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=120&section=footer"/>
+  <b>🌐 Tip:</b> Click any badge to play live right from GitHub or Netlify!
 </p>
 
 ---
@@ -157,7 +128,6 @@
 ---
 
 ### 🧠 Technical Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -194,6 +164,7 @@
   </a>
 </p>
 
+<!-- 🩵 Neon Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:ff00ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thanks+for+Visiting+—+Keep+Coding+💻&fontSize=30&animation=fadeIn&fontColor=ffffff" alt="Footer Banner"/>
 </p>
