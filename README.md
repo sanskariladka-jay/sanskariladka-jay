@@ -33,13 +33,6 @@
 
 ---
 
-## 🧠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,git,github,netlify,vscode,docker,linux&perline=6"/>
-</p>
-
----
-
 ## 🛠 Featured Projects
 <p align="center">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS" target="_blank">
@@ -69,18 +62,29 @@
 ---
 
 ## 🧩 Skills & Learning Path
+
 <p align="center">
-  <b>Top Skills:</b> Java, Spring Boot, React, HTML/CSS/JS, SQL<br/>
-  <b>Currently Learning:</b> WebSocket, Real-time Multiplayer Systems, AI integration
+  <b>Top Skills:</b><br/>
+  Java &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★★★-Java-ED8B00?style=flat-square&logo=java&logoColor=white"/><br/>
+  Spring Boot &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★★☆-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br/>
+  React &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★★☆-React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+  HTML/CSS/JS &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★★☆-WebDev-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+  MySQL &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★☆☆-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+  Git &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★★☆-Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+</p>
+
+<p align="center">
+  <b>Currently Learning:</b><br/>
+  WebSocket &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★☆☆-WebSocket-008080?style=flat-square"/><br/>
+  Real-time Multiplayer Systems &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★★☆☆-Realtime-FF5733?style=flat-square"/><br/>
+  AI Integration &nbsp;&nbsp; <img src="https://img.shields.io/badge/★★☆☆☆-AI-6C3483?style=flat-square"/>
 </p>
 
 ---
 
 ## 🌐 Quick Links
 <p align="center">
-  <a href="https://github.com/sanskariladka-jay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
   <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
