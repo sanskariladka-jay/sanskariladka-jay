@@ -1,4 +1,4 @@
-<!-- ✨ Ultimate GitHub Profile README for Jay Kumar (100% Dynamic, No YAML) -->
+<!-- ✨ Ultimate GitHub Profile README for Jay Kumar -->
 
 <!-- 🌈 Neon Waving Header -->
 <p align="center">
@@ -10,36 +10,19 @@
   Passionate about building interactive web apps, real-time systems, and creative solutions.
 </p>
 
+<!-- 🌟 Profile Setup Complete Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Setup%20Complete-00FFAA?style=for-the-badge&logo=github&logoColor=white" alt="Profile Setup Complete"/>
+</p>
+
 ---
 
 ## 🎮 Live Fun
-<p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #00ffff;">
-  <b>🐍 Snake Game — Your Live Contributions</b><br/>
-  <img src="https://github-readme-snake.vercel.app/api/snake?username=sanskariladka-jay&theme=neon&color=00ffff&background=0D1117&radius=20" width="85%" alt="Jay Kumar's GitHub Contribution Snake"/><br/>
-  <a href="https://github.com/Platane/snk" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Snake-Now-green?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 Dynamic GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=00ffff"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskariladka-jay&theme=tokyonight&hide_border=true&background=0D1117&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff"/>
-</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff00ff"/>
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=sanskariladka-jay&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117"/>
-</p>
-
----
-
-## 🧩 Skills & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,git,github,html,css,js&theme=dark" />
+  <b>🐍 Snake Game — Fun Animation</b><br/>
+  <!-- Snake Game without showing your own contributions -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" width="90%" alt="Snake animation without user contributions"/>
 </p>
 
 ---
@@ -53,26 +36,57 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 Top Problem Solver – LeetCode  
-- 🏆 500+ Commits Completed  
-- 🎓 Certifications: Java, Spring Boot, Full Stack Development  
-- 🌐 Open Source Contributions & Hackathons  
+## 🛠 Featured Projects
+<p align="center">
+  <a href="https://github.com/sanskariladka-jay/DEFAULTERS"><img src="https://img.shields.io/badge/DEFAULTERS-FullStack-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/Platane/snk"><img src="https://img.shields.io/badge/Snake-Game-green?style=for-the-badge"/></a>
+  <a href="https://github.com/sanskariladka-jay/Project1"><img src="https://img.shields.io/badge/Project1-WebApp-green?style=for-the-badge"/></a>
+  <a href="https://github.com/sanskariladka-jay/Project2"><img src="https://img.shields.io/badge/Project2-SpringBoot-orange?style=for-the-badge"/></a>
+  <a href="https://github.com/sanskariladka-jay/Project3"><img src="https://img.shields.io/badge/Project3-React-purple?style=for-the-badge"/></a>
+</p>
 
 ---
 
-## 🌐 Quick Links
+## 📊 Dynamic GitHub Stats (Neon Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=0,0ff0ff,ff00ff&title_color=ffffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff" width="48%" alt="Jay Kumar GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=000000&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" width="48%" alt="Jay Kumar GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&bg_color=0,0ff0ff,ff00ff&title_color=ffffff&text_color=ffffff" width="50%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🧩 Skills
+<p align="center">
+  Java ☕ | Spring Boot 🌿 | React ⚛️ | MySQL 💾 | WebSockets 🌐 | Git 🧭 | HTML/CSS/JS 🎨
+</p>
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/sanskariladka-jay"><img src="https://img.shields.io/badge/GitHub-JayKumar-black?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jk316875@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://linkedin.com/in/jaykumar"><img src="https://img.shields.io/badge/LinkedIn-JayKumar-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/jaykumar"><img src="https://img.shields.io/badge/Twitter-@jaykumar-1DA1F2?style=for-the-badge&logo=twitter"/></a>
 </p>
 
 ---
 
+## 🏆 Achievements
+- 🥇 Top Problem Solver – LeetCode  
+- 🏆 500+ Commits Completed  
+- 🎓 Certified in Java, Spring Boot & Full Stack  
+- 🌐 Hackathon Participant & Open Source Contributor  
+
+---
+
 ## 🎯 Fun Quote
-> "The best way to predict the future is to create it." – Jay Kumar  
+> “The best way to predict the future is to create it.” — Jay Kumar  
 
 ---
 
