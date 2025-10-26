@@ -31,7 +31,7 @@
 <p align="center" style="background:#0d0d0d; padding:25px; border-radius:15px; box-shadow:0 0 20px #ff00ff;">
   <b>🧱 Tetris Live — Falling Blocks Animation</b><br/>
   <img src=".github/workflows/live-games.yml" width="85%" alt="Tetris Live SVG"/><br/>
-  <a href="https://github.com/feysalthedev/github-readme-tetris" target="_blank">
+  <a href=".github/workflows/live-games.yml" target="_blank">
     <img src=".github/workflows/live-games.yml"/>
   </a>
 </p>
