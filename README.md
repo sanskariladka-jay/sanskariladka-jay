@@ -62,9 +62,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&hide_border=true" width="48%" alt="GitHub Stats"/>
-  
-  <img src="https://streak-stats.demolab.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideNums=ffffff&currStreakNum=00ffff&dates=ffffff&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+
+  <!-- ✅ Fixed Daily Streak Card -->
+  <a href="https://git-hub-streak-stats.vercel.app">
+    <img src="https://git-hub-streak-stats.vercel.app?user=sanskariladka-jay&theme=radical&mode=daily&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideNums=ffffff&currStreakNum=00ffff&dates=ffffff&hide_border=true&cache_bust=20251028" width="48%" alt="GitHub Streak Stats"/>
+  </a>
 </p>
 
 <p align="center">
