@@ -18,7 +18,7 @@
 
 ## 🎮 Interactive Projects
 
-<p align="center" style="background: rgba(20,20,40,0.7); padding:25px; border-radius:20px; box-shadow: 0 0 12px #00ffff,0 0 12px #ff00ff;">
+<p align="center">
   <b>🐍 Snake Game — Neon Interactive Demo</b><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=ff00ff&color_dots=#00ffff,#ff00ff,#0fffff,#ffffff" width="90%" alt="Neon Snake Animation"/>
 </p>
@@ -27,19 +27,19 @@
 
 ## 🌱 Professional Overview
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 4s infinite;">
-- 🎓 B.E. CSE Student | Full Stack Developer  
-- 💻 Currently Learning: **Spring Boot, React, Real-time Systems**  
-- 🌟 Motto: _“Code with purpose, build with passion.”_  
-- 🧩 Interests: AI, Game Development, Open Source Contributions  
-- 🔭 Exploring: **Real-time Multiplayer Platforms**
+<p align="center">
+🎓 B.E. CSE Student | Full Stack Developer <br/>
+💻 Currently Learning: <b>Spring Boot, React, Real-time Systems</b> <br/>
+🌟 Motto: <i>“Code with purpose, build with passion.”</i> <br/>
+🧩 Interests: AI, Game Development, Open Source Contributions <br/>
+🔭 Exploring: <b>Real-time Multiplayer Platforms</b>
 </p>
 
 ---
 
 ## 🛠 Featured Work
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 5s infinite;">
+<p align="center">
   <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
     <img src="https://img.shields.io/badge/DEFAULTERS-FullStack-00ffff?style=for-the-badge&labelColor=111111&logo=github&logoColor=ffffff" alt="DEFAULTERS"/>
   </a>
@@ -61,24 +61,25 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:20px; border-radius:20px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 6s infinite;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" width="48%" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&hide_border=true" width="48%" alt="GitHub Stats"/>
+  
+  <img src="https://streak-stats.demolab.com?user=sanskariladka-jay&theme=radical&background=1A1A2E&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideNums=ffffff&currStreakNum=00ffff&dates=ffffff&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:20px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 7s infinite;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff" width="50%" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&bg_color=1A1A2E&title_color=00ffff&text_color=ffffff&hide_border=true" width="50%" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🧩 Technical Skills
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 5s infinite;">
-  <a href="#"><img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-💾-ff00ff?style=for-the-badge&labelColor=111111&logo=mysql&logoColor=ffffff" alt="MySQL"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-☕-00ffff?style=for-the-badge&labelColor=111111&logo=java&logoColor=ffffff" alt="Java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-🌿-ff00ff?style=for-the-badge&labelColor=111111&logo=spring&logoColor=ffffff" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/React-⚛️-00ffff?style=for-the-badge&labelColor=111111&logo=react&logoColor=ffffff" alt="React"/>
+  <img src="https://img.shields.io/badge/MySQL-💾-ff00ff?style=for-the-badge&labelColor=111111&logo=mysql&logoColor=ffffff" alt="MySQL"/>
 </p>
 
 ---
@@ -96,19 +97,19 @@
 
 ## 🏆 Achievements & Certifications
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:15px; border-radius:15px; box-shadow:0 0 10px #00ffff,0 0 10px #ff00ff; animation: pulse 6s infinite;">
-- 🥇 Top Problem Solver – LeetCode  
-- 🏆 500+ Commits Completed  
-- 🎓 Certified in Java, Spring Boot & Full Stack  
-- 🌐 Hackathon Participant & Open Source Contributor
+<p align="center">
+🥇 Top Problem Solver – LeetCode <br/>
+🏆 500+ Commits Completed <br/>
+🎓 Certified in Java, Spring Boot & Full Stack <br/>
+🌐 Hackathon Participant & Open Source Contributor
 </p>
 
 ---
 
 ## 🎯 Quote
 
-<p align="center" style="background: url('https://svgshare.com/i/uwQ.svg'); padding:10px; border-radius:10px; box-shadow:0 0 6px #00ffff,0 0 6px #ff00ff; animation: pulse 5s infinite;">
-> “The best way to predict the future is to create it.” — Jay Kumar
+<p align="center">
+<i>“The best way to predict the future is to create it.” — Jay Kumar</i>
 </p>
 
 ---
