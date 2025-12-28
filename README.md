@@ -1,8 +1,8 @@
 <!-- ✨ Professional Cyberpunk GitHub README — Jay Kumar -->
 
-<!-- 🌌 Cyberpunk Animated Header -->
+<!-- 🌌 Waving Header (RESTORED & WORKING) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=220&section=header&text=Jay%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=Hi%2C%20I'm%20Jay%20Kumar!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,8 @@
 
 <p align="center">
   <b>🐍 GitHub Contribution Snake</b><br/>
-  <img src="https://raw.githubusercontent.com/sanskariladka-jay/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Snake Animation"/>
+  <!-- Stable demo snake (NO setup required, NO errors) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Snake Animation"/>
 </p>
 
 ---
@@ -46,33 +47,11 @@
   <a href="https://github.com/Platane/snk">
     <img src="https://img.shields.io/badge/Snake-Game-ff00ff?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://github.com/sanskariladka-jay/Project1">
-    <img src="https://img.shields.io/badge/Project1-WebApp-00ffff?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project2">
-    <img src="https://img.shields.io/badge/Project2-SpringBoot-ff00ff?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project3">
-    <img src="https://img.shields.io/badge/Project3-React-00ffff?style=for-the-badge"/>
-  </a>
 </p>
 
 ---
 
-## 📌 Pinned Projects Showcase
-
-<p align="center">
-  <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=DEFAULTERS&theme=radical"/>
-  </a>
-  <a href="https://github.com/sanskariladka-jay/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project2&theme=radical"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics (STABLE)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&hide_border=true" width="48%"/>
@@ -81,14 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&hide_border=true" width="50%"/>
-</p>
-
----
-
-## 📈 GitHub Activity Timeline
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&bg_color=1A1A2E&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -114,22 +85,13 @@
 
 ---
 
-## 🎥 Live Project Previews
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749571-7f1b7c5b-1b61-4c5d-9b6a-6f58c0bba8cf.gif" width="45%"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749694-0e94a6f8-b3c1-49f0-90b4-dac13b4b3d0e.gif" width="45%"/>
-</p>
-
----
-
 ## 🎯 Recruiter Snapshot
 
 <p align="center">
 ✔ Strong foundation in <b>DSA</b><br/>
 ✔ Experience with <b>Java, Spring Boot, React, MySQL</b><br/>
-✔ Built <b>Full Stack & Real-Time Applications</b><br/>
-✔ Familiar with <b>REST APIs, JWT, WebSockets</b><br/>
+✔ Built <b>Full Stack Applications</b><br/>
+✔ Familiar with <b>REST APIs & JWT</b><br/>
 ✔ Passionate about <b>Scalable System Design</b>
 </p>
 
@@ -138,31 +100,11 @@
 ## 🏆 Achievements & Certifications
 
 <p align="center">
-🥇 Top Problem Solver – LeetCode <br/>
-🏆 500+ Commits Completed <br/>
-🎓 Certified in Java, Spring Boot & Full Stack <br/>
-🌐 Hackathon Participant & Open Source Contributor
+🥇 Strong Problem Solver <br/>
+🏆 Active GitHub Contributor <br/>
+🎓 Java & Full Stack Certified <br/>
+🌐 Open Source Enthusiast
 </p>
-
----
-
-## 📌 Developer Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanskariladka-jay&style=for-the-badge&color=00ffff"/>
-  <img src="https://img.shields.io/github/commit-activity/m/sanskariladka-jay/DEFAULTERS?style=for-the-badge&color=ff00ff"/>
-  <img src="https://img.shields.io/github/stars/sanskariladka-jay?style=for-the-badge&color=00ffff"/>
-</p>
-
----
-
-## 🧾 Professional Summary
-
-Full Stack Developer and Computer Science Engineering student with hands-on
-experience in building scalable web applications, real-time systems, and
-interactive platforms using Java, Spring Boot, React, and MySQL.
-Strong problem-solving skills with a passion for clean architecture,
-system design, and performance optimization.
 
 ---
 
@@ -174,12 +116,6 @@ system design, and performance optimization.
   </a>
   <a href="mailto:jk316875@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-ff00ff?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/jaykumar">
-    <img src="https://img.shields.io/badge/LinkedIn-JayKumar-00ffff?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/jaykumar">
-    <img src="https://img.shields.io/badge/Twitter-@jaykumar-ff00ff?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
 
@@ -194,5 +130,5 @@ system design, and performance optimization.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thank+You+for+Visiting!&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=140&section=footer&text=Thank+you+for+visiting+—+Keep+Coding💻&fontSize=28&fontColor=ffffff"/>
 </p>
