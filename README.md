@@ -53,9 +53,6 @@
   <img src="https://img.shields.io/badge/Issues-Bug%20Fixer-00ffff?style=for-the-badge&logo=github"/>
 </p>
 
-✔ Represents commits, PRs & issue activity  
-✔ No API → no errors  
-✔ Recruiter-friendly
 
 ---
 
@@ -65,10 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&count_private=true&hide=stars&theme=radical&hide_border=true"/>
 </p>
 
-✔ Auto-updates with your GitHub activity  
-✔ Shows real contribution volume  
-✔ Stable & widely used service
-
 ---
 
 ### 📈 Contribution Activity Timeline
@@ -76,9 +69,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true"/>
 </p>
-
-✔ Shows **when & how frequently** you contribute  
-✔ Timeline-based visualization
 
 ---
 
