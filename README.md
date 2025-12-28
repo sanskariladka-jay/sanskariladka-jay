@@ -55,16 +55,11 @@
 
 ---
 
-### 🔥 Contribution Login Streak (Graphic Model) ✅ NEW
+### 🔥 Contribution Login Streak✅ NEW
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
-
-✔ Shows **daily login & contribution streak**  
-✔ Automatically updates  
-✔ Visual flame-style graphic  
-✔ Recruiter-friendly metric  
 
 ---
 
