@@ -53,6 +53,18 @@
   <img src="https://img.shields.io/badge/Issues-Bug%20Fixer-00ffff?style=for-the-badge&logo=github"/>
 </p>
 
+---
+
+### 🔥 Contribution Login Streak (Graphic Model) ✅ NEW
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskariladka-jay&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+✔ Shows **daily login & contribution streak**  
+✔ Automatically updates  
+✔ Visual flame-style graphic  
+✔ Recruiter-friendly metric  
 
 ---
 
