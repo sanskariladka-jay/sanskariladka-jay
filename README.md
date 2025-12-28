@@ -1,6 +1,6 @@
 <!-- ✨ Professional Cyberpunk GitHub README — Jay Kumar -->
 
-<!-- 🌌 Waving Header (RESTORED & WORKING) -->
+<!-- 🌌 Waving Header (UNCHANGED) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=200&section=header&text=Hi%2C%20I'm%20Jay%20Kumar!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <b>🐍 GitHub Contribution Snake</b><br/>
-  <!-- Stable demo snake (NO setup required, NO errors) -->
+  <!-- Stable public snake demo (NO setup required) -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="90%" alt="Snake Animation"/>
 </p>
 
@@ -47,11 +47,33 @@
   <a href="https://github.com/Platane/snk">
     <img src="https://img.shields.io/badge/Snake-Game-ff00ff?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
+  <a href="https://github.com/sanskariladka-jay/Project1">
+    <img src="https://img.shields.io/badge/Project1-WebApp-00ffff?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project2">
+    <img src="https://img.shields.io/badge/Project2-SpringBoot-ff00ff?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project3">
+    <img src="https://img.shields.io/badge/Project3-React-00ffff?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics (STABLE)
+## 📌 Pinned Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/sanskariladka-jay/DEFAULTERS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=DEFAULTERS&theme=radical"/>
+  </a>
+  <a href="https://github.com/sanskariladka-jay/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanskariladka-jay&repo=Project2&theme=radical"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&hide_border=true" width="48%"/>
@@ -60,6 +82,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&hide_border=true" width="50%"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
