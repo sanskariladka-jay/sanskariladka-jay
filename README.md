@@ -56,14 +56,6 @@
 
 ---
 
-### 📊 Auto-Updated Contribution Summary
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&count_private=true&hide=stars&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ### 📈 Contribution Activity Timeline
 
 <p align="center">
