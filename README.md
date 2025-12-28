@@ -45,34 +45,61 @@
 
 ## 🤝 GitHub Contributions
 
-### 📊 Contribution Overview
+### 📌 Contribution Badges
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&hide=issues,prs&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Commits-Active%20Contributor-00ffff?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-Collaborator-ff00ff?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Issues-Bug%20Fixer-00ffff?style=for-the-badge&logo=github"/>
 </p>
 
-✔ Shows **total commits & activity**  
-✔ Stable GitHub API  
-✔ No streak / rate-limit errors  
+✔ Represents commits, PRs & issue activity  
+✔ No API → no errors  
+✔ Recruiter-friendly
 
 ---
 
-### 🌍 Contribution Activity Graph
+### 📊 Auto-Updated Contribution Summary
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&count_private=true&hide=stars&theme=radical&hide_border=true"/>
+</p>
+
+✔ Auto-updates with your GitHub activity  
+✔ Shows real contribution volume  
+✔ Stable & widely used service
+
+---
+
+### 📈 Contribution Activity Timeline
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true"/>
 </p>
 
-✔ Visualizes **when & how actively you contributed**
+✔ Shows **when & how frequently** you contribute  
+✔ Timeline-based visualization
 
 ---
 
 ### 🗂️ Where I Contribute
 
 <p align="center">
-✔ Personal Projects (Full Stack & Java Applications)<br/>
+✔ Personal Full-Stack Projects (Java & Web)<br/>
 ✔ Academic & Learning Repositories<br/>
-✔ Open Source Experiments & Feature Enhancements<br/>
-✔ Bug Fixes, UI Improvements & Backend Logic
+✔ Real-time Systems & Game-based Apps<br/>
+✔ Feature Enhancements & Bug Fixes
+</p>
+
+---
+
+## ⭐ Highlighted Work & Open Source
+
+<p align="center">
+🔹 <b>DEFAULTERS</b> — Full-Stack Java Application<br/>
+🔹 <b>Real-Time Voice & Game Platform</b> (Spring Boot + WebSocket)<br/>
+🔹 <b>Frontend Web Apps</b> (React & JavaScript)<br/>
+🔹 Experimental & Learning-based Open-Source Repos
 </p>
 
 ---
