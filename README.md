@@ -43,22 +43,36 @@
 
 ---
 
-## 📊 GitHub Statistics (FIXED & STABLE)
+## 🤝 GitHub Contributions
 
+### 📊 Contribution Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskariladka-jay&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskariladka-jay&hide=issues,prs&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
 </p>
 
-✔ Uses **only vercel.app (most stable)**  
-✔ No streak API → **no rate-limit errors**
+✔ Shows **total commits & activity**  
+✔ Stable GitHub API  
+✔ No streak / rate-limit errors  
 
 ---
 
-## 📈 GitHub Activity Graph
+### 🌍 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskariladka-jay&theme=react-dark&hide_border=true"/>
+</p>
+
+✔ Visualizes **when & how actively you contributed**
+
+---
+
+### 🗂️ Where I Contribute
+
+<p align="center">
+✔ Personal Projects (Full Stack & Java Applications)<br/>
+✔ Academic & Learning Repositories<br/>
+✔ Open Source Experiments & Feature Enhancements<br/>
+✔ Bug Fixes, UI Improvements & Backend Logic
 </p>
 
 ---
@@ -77,9 +91,9 @@
 
 <p align="center">
 ✔ Strong in <b>DSA & Problem Solving</b><br/>
-✔ Hands-on experience with <b>Full Stack Development</b><br/>
-✔ Built <b>Java + Spring Boot + React</b> projects<br/>
-✔ Knowledge of <b>REST APIs, JWT, WebSockets</b><br/>
+✔ Hands-on experience with <b>Java Full Stack Development</b><br/>
+✔ Built <b>Spring Boot + React</b> applications<br/>
+✔ Familiar with <b>REST APIs, JWT, WebSockets</b><br/>
 ✔ Passionate about <b>Scalable System Design</b>
 </p>
 
